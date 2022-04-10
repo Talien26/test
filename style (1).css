@@ -1,0 +1,11 @@
+#navbar{
+   z-index: 0;
+}
+#map{
+    height: 1000px;
+    width: 2000px;
+}
+#video{
+    height: 2000px;
+    width: 4000px;
+}
